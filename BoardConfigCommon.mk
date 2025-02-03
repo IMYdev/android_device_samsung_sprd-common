@@ -54,7 +54,7 @@ BOARD_RIL_CLASS := ../../../device/samsung/sprd-common/ril/
 BOARD_MOBILEDATA_INTERFACE_NAME := "rmnet0"
 
 # Audio
-BOARD_USES_TINYALSA_AUDIO := true
+#BOARD_USES_TINYALSA_AUDIO := true
 
 
 # HWComposer
